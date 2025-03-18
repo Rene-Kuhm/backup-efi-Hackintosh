@@ -1,4 +1,4 @@
-# Hackintosh EFI para MSI MAG B760M MORTAR WIFI DDR4
+# Hackintosh EFI para Mother Gigabyte Z790 AORUS ELITE AX WIFI DDR4 S1700
 
 Este repositorio contiene la configuración EFI para ejecutar macOS Sequoia en mi configuración de hardware específica.
 
