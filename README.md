@@ -65,7 +65,7 @@ Este repositorio contiene la configuración EFI para ejecutar macOS Sequoia en m
 
 ## Notas importantes
 
-- Esta EFI está configurada específicamente para una placa MSI MAG B760M MORTAR WIFI DDR4 con un procesador Intel Core i7-14700F.
+- Esta EFI está configurada específicamente para una placa Mother Gigabyte Z790 AORUS ELITE AX WIFI DDR4 S1700 con un procesador Intel Core i7-14700F.
 - La configuración de SMBIOS está basada en iMacPro1,1.
 - Siempre haz una copia de seguridad de tu EFI funcional antes de realizar cambios.
 - Esta configuración fue creada siguiendo la [Guía de OpenCore](https://dortania.github.io/OpenCore-Install-Guide/).
